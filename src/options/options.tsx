@@ -1,6 +1,5 @@
 import React from 'react'
 import {createRoot} from 'react-dom/client'
-import "./popup.css"
 
 class App extends React.Component {
     render() {
